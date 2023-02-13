@@ -57,4 +57,25 @@ div{
 .padding-paragrafi {
   padding-top: 10px;
   padding-bottom: 10px;
+  padding-left: 0px;
+}
+
+.testo-evidenziato {
+  background-color: yellow;
+}
+
+table {
+  text-align: justify;
+
+}
+
+thead {
+  background-color: rgb(110, 144, 253);
+
+}
+
+
+
+.td-azzurro {
+  background-color: rgb(127, 225, 255);
 }
