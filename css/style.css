@@ -8,6 +8,11 @@ div{
 
 }
 
+.container {
+  margin: 5px;
+
+}
+
 /* header */
 .header-box {
   background-color: rgb(71, 115, 211);
@@ -71,6 +76,7 @@ table {
 
 thead {
   background-color: rgb(110, 144, 253);
+  color: white;
 
 }
 
@@ -78,4 +84,41 @@ thead {
 
 .td-azzurro {
   background-color: rgb(127, 225, 255);
+}
+
+/* link fondo pagina  */
+
+
+.link-video {
+  width: 200px;
+  height: 150px;
+  margin-bottom: 10px;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.link-video a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-top: 15px;
+
+}
+
+.video1 {
+  background-image: url(../img/monitor.jpg);
+
+}
+
+.video2 {
+  background-image: url(../img/graph.jpg);
+
+}
+
+h3 {
+  padding-top: 20px;
+  padding-bottom: 5px;
 }
