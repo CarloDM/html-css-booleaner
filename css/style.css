@@ -3,10 +3,10 @@
   margin: 0px;
 }
 
-
 .container {
   margin: 5px;
-
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 /* header */
@@ -17,9 +17,7 @@
   background-color: rgb(97, 197, 255);
 }
 
-
 /* main */
-
 /* articolo  */
 
 .titolo-articolo {
@@ -30,7 +28,6 @@
 .titolo-articolo h1 {
   font-size: 40px;
   line-height: 100%;
-
 }
 
 .autore-articolo {
@@ -51,8 +48,6 @@
 
 .didascalia-immagini {
   font-size: 12px;
-
-
 }
 
 .padding-paragrafi {
@@ -67,16 +62,12 @@
 
 table {
   text-align: justify;
-
 }
 
 thead {
   background-color: rgb(110, 144, 253);
   color: white;
-
 }
-
-
 
 .td-azzurro {
   background-color: rgb(127, 225, 255);
@@ -84,14 +75,12 @@ thead {
 
 /* link fondo pagina  */
 
-
 .link-video {
   width: 200px;
   height: 150px;
   margin-bottom: 10px;
   background-position: center;
   background-size: cover;
-  
 }
 
 .link-video a {
@@ -101,17 +90,14 @@ thead {
   font-weight: bold;
   padding-left: 5px;
   padding-top: 15px;
-
 }
 
 .video1 {
   background-image: url(../img/monitor.jpg);
-
 }
 
 .video2 {
   background-image: url(../img/graph.jpg);
-
 }
 
 h3 {
