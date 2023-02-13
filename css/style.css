@@ -62,6 +62,7 @@
 
 table {
   text-align: justify;
+  border-spacing: 0px;
 }
 
 thead {
