@@ -1,0 +1,18 @@
+/* generali */
+*{
+  margin: 0px;
+}
+
+div{
+  border: 1px solid red;
+
+}
+
+/* header */
+.header-box {
+  background-color: rgb(71, 115, 211);
+  height: 80px;
+  background-image: url(../img/pattern.png);
+  
+}
+
