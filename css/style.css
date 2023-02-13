@@ -16,3 +16,45 @@ div{
   
 }
 
+
+/* main */
+
+/* articolo  */
+
+.titolo-articolo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.titolo-articolo h1 {
+  font-size: 40px;
+  line-height: 100%;
+
+}
+
+.autore-articolo {
+  font-size: 12px;
+}
+
+.testo-grigio {
+  color: darkgray;
+}
+
+#blu {
+  color: rgb(0, 140, 255);
+}
+
+.data-articolo {
+  font-size: 8px;
+}
+
+.didascalia-immagini {
+  font-size: 12px;
+
+
+}
+
+.padding-paragrafi {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
