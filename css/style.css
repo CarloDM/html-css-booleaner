@@ -3,10 +3,6 @@
   margin: 0px;
 }
 
-div{
-  border: 1px solid red;
-
-}
 
 .container {
   margin: 5px;
@@ -15,10 +11,10 @@ div{
 
 /* header */
 .header-box {
-  background-color: rgb(71, 115, 211);
   height: 80px;
-  background-image: url(../img/pattern.png);
-  
+  background: url(../img/logo.svg) left bottom no-repeat, url(../img/pattern.png) left top repeat;
+  background-size: 200px,500px;
+  background-color: rgb(97, 197, 255);
 }
 
 
